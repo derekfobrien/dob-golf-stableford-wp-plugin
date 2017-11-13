@@ -1,0 +1,83 @@
+    #stableford-container p {
+      margin: 5px;
+	}
+
+    #stableford-container h1 {
+      margin: 0px;
+    }
+    #stableford-container h2 {
+      margin: 0px;
+    }
+    #stableford-container h3 {
+      margin: 0px;
+    }
+    
+    #stableford-container td {
+    	padding: 5px 3px;
+    }
+
+
+    #stableford-container {
+      padding: 10px;
+      max-width: 800px;
+      /*background-color: rgb(220, 255, 255);
+      border: rgb(0,0,0) 1px solid;*/
+    }
+    #stableford-container #stableford-handicap {
+      /*color: rgb(255, 255, 255);
+      background-color: rgb(0, 120, 0);*/
+      padding: 10px;
+      margin: 5px 0px;
+    }
+    #stableford-container #stableford-inputs {
+      /*border: 1px solid rgb(255, 0, 0);
+	  color: rgb(19, 230, 66);
+	  background-color: rgb(69, 116, 150);*/
+      padding: 5px;
+      margin: 5px 0px;
+    }
+    #stableford-container #inputs-front9 {
+      /*border: 1px solid rgb(0, 0, 255);*/
+      display: inline-block;
+      width: 300px;
+      padding: 5px;
+      margin: 0px 5px;
+ 	}
+    #stableford-container #inputs-back9 {
+      /*border: 1px solid rgb(0, 220, 255);*/
+      display: inline-block;
+      width: 300px;
+	  padding: 5px;
+	  margin: 0px 5px;
+    }
+    #stableford-container #stableford-points {
+      /*border: 1px solid rgb(255, 255, 255);
+      background-color: rgb(51, 20, 20);
+	  color: rgb(146, 228, 246);*/
+      margin: 5px 0px;
+      padding: 5px;
+    }
+    #stableford-container #points-front9 {
+      /*border: 1px solid rgb(255, 0, 255);*/
+      display: inline-block;
+      width: 300px;
+      padding: 5px;
+      margin: 0px 5px;
+    }
+    #stableford-container #points-back9 {
+      /*border: 1px solid rgb(150, 220, 255);*/
+      display: inline-block;
+      width: 300px;
+      padding: 5px;
+      margin: 0px 5px;
+    }
+
+    #stableford-container #totals {
+      /*background-color: rgb(20,80,50);
+      color: rgb(120,190,190);
+      border: rgb(200,200,200) 1px solid;*/
+      margin: 5px 0px;
+      padding: 12px;
+      font-size: 18px;
+    }
+	
